@@ -144,3 +144,4 @@ function ofAge(age) {
 }
 console.log(ofAge(19));
 // I created this simple function to determine by age who can be allowed to have alcohol 
+// Time to celebrate
